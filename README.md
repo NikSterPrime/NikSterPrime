@@ -1,76 +1,38 @@
 # Hi, I'm Aditya 👋
 
-I'm a Computer Science student who enjoys building real-world software and understanding how things work under the hood.  
-My interests lie in systems programming, backend engineering, and full-stack development.
-
-I learn best by designing, building, breaking, and improving projects — from low-level components to complete, usable products.
+Computer Science student focused on **systems programming, backend engineering, and full-stack development**.  
+I learn by building real-world projects and working close to performance, concurrency, and clean design.
 
 ---
 
 ## What I Do
-
-- Build backend and system-level projects with a focus on **performance, concurrency, and clean design**
+- Build backend and system-level software with an emphasis on **performance and scalability**
 - Develop full-stack applications using modern web technologies
-- Containerize and deploy applications to understand real production workflows
-- Continuously improve code quality through refactoring and testing
+- Containerize and deploy applications to understand production workflows
 
 ---
 
-## Tech Stack
-
-**Languages**
-- C++, JavaScript, Python
-
-**Backend & Systems**
-- Node.js, Express
-- TCP networking, concurrency fundamentals
-- REST APIs, authentication basics
-
-**Frontend**
-- React
-- Tailwind CSS
-
-**Databases**
-- PostgreSQL
-- MongoDB
-- SQLite
-
-**DevOps & Tools**
-- Docker
-- Git & GitHub
-- Linux basics
-- CI/CD fundamentals
+## Tech
+**C++, JavaScript, Python**  
+Node.js, Express, React, Docker  
+PostgreSQL, MongoDB, SQLite  
+Networking fundamentals, REST APIs, CI/CD basics
 
 ---
 
 ## Featured Projects
-
-> I focus on projects that demonstrate engineering depth rather than tutorial-style clones.
-
-- **Redis-Style In-Memory Datastore (C++)**  
-  Built a high-performance key–value store with concurrent client handling, custom command parsing, and network I/O using `select()`.
-
-- **AI-Powered 3D Marine Learning Platform**  
-  Full-stack platform using React, Django, Docker, and PostgreSQL to generate interactive 3D marine models via AI.
-
-- **Full-Stack Web Applications**  
-  Multiple projects involving authentication, APIs, database design, and responsive UI.
-
-(Check pinned repositories for details and code.)
+- **Redis-Style In-Memory Datastore (C++)** — Concurrent key–value store with custom command parsing and TCP networking using `select()`
+- **AI-Powered 3D Marine Learning Platform** — Full-stack platform built with React, Django, Docker, and PostgreSQL
+- **Full-Stack Web Apps** — Auth, APIs, databases, and responsive UIs
 
 ---
 
-## What I'm Currently Learning
-
-- Advanced C++ and systems design
-- Scalable backend architectures
-- Networking and performance optimization
-- Cloud deployment and CI/CD pipelines
+## Currently Learning
+Advanced C++, systems design, networking, and cloud deployment
 
 ---
 
-## What I'm Looking For
-
+## Open To
 - Software Engineering Internships
 - Backend / Systems-oriented roles
 - Opportunities to learn from real production codebases
@@ -78,9 +40,5 @@ I learn best by designing, building, breaking, and improving projects — from l
 
 ---
 
-## Let's Connect
-
-- GitHub: https://github.com/NikSterPrime
-- LinkedIn: *(add your LinkedIn URL here)*
-
-I'm always open to meaningful conversations, feedback, and collaboration.
+🔗 GitHub: https://github.com/NikSterPrime  
+🔗 LinkedIn: https://www.linkedin.com/in/adityapuranikunreal/
