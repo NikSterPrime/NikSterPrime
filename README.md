@@ -21,6 +21,7 @@ Networking fundamentals, REST APIs, CI/CD basics
 ---
 
 ## Featured Projects
+- **Unix-like Shell (C++)** — Uses Posix function like `fork()`,`execvp()` to create and run processes from the shell, also using `pipe()` for redirections
 - **Redis-Style In-Memory Datastore (C++)** — Concurrent key–value store with custom command parsing and TCP networking using `select()`
 - **AI-Powered 3D Marine Learning Platform** — Full-stack platform built with React, Django, Docker, and PostgreSQL
 - **Full-Stack Web Apps** — Auth, APIs, databases, and responsive UIs
