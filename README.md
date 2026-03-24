@@ -13,7 +13,7 @@ I learn by building real-world projects and working close to performance, concur
 ---
 
 ## Tech
-**C++, JavaScript, Python**  
+**C/C++, JavaScript, Python**  
 Node.js, Express, React, Docker  
 PostgreSQL, MongoDB, SQLite  
 Networking fundamentals, REST APIs, CI/CD basics
